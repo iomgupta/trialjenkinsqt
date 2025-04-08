@@ -4,3 +4,4 @@ build/
 *.user
 *.pro.user
 *.autosave
+test/build.log
